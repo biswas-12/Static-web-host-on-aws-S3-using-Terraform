@@ -38,4 +38,4 @@ In the AWS S3 console, navigate to your S3 bucket, go to **Properties**, and fin
 
 ---
 
-- **Check out the Blog on this Project**: [Static website host on AWS S3 using Terraform](https://biswanathsah.hashnode.dev/clouddevops-project-2)
+- **Check out the Blog on this Project**: [Static website host on AWS S3 using Terraform](https://biswanath12.hashnode.dev/static-website-hosting-on-aws-s3-using-terraform)
